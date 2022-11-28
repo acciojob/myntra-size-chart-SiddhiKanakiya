@@ -1,2 +1,9 @@
-
 /* Your CSS Code here. */
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+  }
+  th, td {
+    background-color: #96D4D4;
+  }
